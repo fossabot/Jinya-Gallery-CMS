@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/DerKnerd/Jinya-Gallery-CMS/branch/develop/graph/badge.svg)](https://codecov.io/gh/DerKnerd/Jinya-Gallery-CMS)
 [![Dependency Status](https://www.versioneye.com/user/projects/59f1b96415f0d71dedfa1aed/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59f1b96415f0d71dedfa1aed)
 [![StyleCI](https://styleci.io/repos/107044619/shield?branch=develop)](https://styleci.io/repos/107044619)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJinya-CMS%2FJinya-Gallery-CMS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJinya-CMS%2FJinya-Gallery-CMS?ref=badge_shield)
 
 ##### Status Branch master
 [![Build Status](https://travis-ci.org/DerKnerd/Jinya-Gallery-CMS.svg?branch=master)](https://travis-ci.org/DerKnerd/Jinya-Gallery-CMS)
@@ -31,3 +32,5 @@ If you want to contribute just fork the repository and create a pull request.
 
 # License
 [MIT License](LICENSE)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJinya-CMS%2FJinya-Gallery-CMS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJinya-CMS%2FJinya-Gallery-CMS?ref=badge_large)
